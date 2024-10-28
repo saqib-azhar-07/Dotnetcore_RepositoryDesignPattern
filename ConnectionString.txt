@@ -1,0 +1,1 @@
+Scaffold-DbContext -UseDatabaseNames -Connection "Server=DESKTOP-CCH4QJ5;Database=TestProject;User Id=User; Password=Password@1;trusted_connection=true;encrypt=false" -Provider Microsoft.EntityFrameworkCore.SqlServer -OutputDir Entities -Project PRJ.DataAccess -Context MainContext -schema dbo -force
